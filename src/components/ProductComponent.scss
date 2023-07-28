@@ -1,0 +1,23 @@
+*{
+    margin: auto;
+    padding: 1px;
+}
+
+.ui-link-cards{
+    width: 35%;
+    height: 35%;
+    display: flex;
+    margin: 0px;
+    background-color: #d4d6d6c9;
+    flex-direction: row;
+    color: black;
+    border-radius: 12px;
+}
+.four-column {
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+}
+.image{
+    border-radius: 12px;
+}
